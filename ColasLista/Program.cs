@@ -1,4 +1,7 @@
-﻿namespace ColasLista
+﻿using System;
+using System.Collections.Generic;
+
+namespace ColasLista
 {
     internal class Program
     {
